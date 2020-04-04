@@ -3,3 +3,20 @@
   padding: 0;
   font-family: "Poppins", sans-serif;
 }
+
+#banner-desktop {
+  height: 80vh;
+}
+
+#banner-desktop h1 {
+  margin-top: 100px;
+}
+
+#banner-desktop button {
+  background-color: #cc3300;
+  color: white;
+  height: 40px;
+  width: 140px;
+  border: none;
+  border-radius: 6px;
+}
