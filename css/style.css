@@ -20,3 +20,16 @@
   border: none;
   border-radius: 6px;
 }
+
+#cards {
+  margin: 60px 0 100px 0;
+}
+
+.card-body button {
+  background-color: #cc3300;
+  color: white;
+  height: 50px;
+  width: 160px;
+  border: none;
+  border-radius: 6px;
+}

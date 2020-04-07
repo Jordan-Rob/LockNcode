@@ -1,0 +1,21 @@
+#box {
+  background-color: gainsboro;
+  color: gray;
+  height: 35vh;
+  width: 400px;
+  margin: 100px 0 0 100px;
+  padding: 20px 0 0 20px;
+}
+
+#box .box-class {
+  text-align: center;
+}
+
+#box button {
+  background-color: blue;
+  color: white;
+  border: none;
+  height: 40px;
+  width: 120px;
+  border-radius: 6px;
+}
