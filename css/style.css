@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
+  letter-spacing: 2px;
 }
 
 #banner-desktop {
@@ -21,15 +22,30 @@
   border-radius: 6px;
 }
 
-#cards {
-  margin: 60px 0 100px 0;
-}
-
-.card-body button {
+/*.card-body button {
   background-color: #cc3300;
   color: white;
   height: 50px;
   width: 160px;
   border: none;
   border-radius: 6px;
+}*/
+
+#card-section {
+  height: 120vh;
+  padding-top: 40px;
+}
+
+#card-section .card {
+  height: 88vh;
+  margin-top: 80px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-body img {
+  height: 18vh;
+  padding-bottom: 15px;
 }
