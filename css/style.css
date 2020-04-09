@@ -49,3 +49,16 @@
   height: 18vh;
   padding-bottom: 15px;
 }
+
+#core-section {
+  height: 100vh;
+}
+
+#core-section button {
+  background-color: #cc3300;
+  color: white;
+  height: 40px;
+  width: 140px;
+  border: none;
+  border-radius: 6px;
+}
