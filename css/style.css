@@ -62,3 +62,12 @@
   border: none;
   border-radius: 6px;
 }
+
+#mobi button {
+  background-color: #cc3300;
+  color: white;
+  height: 40px;
+  width: 140px;
+  border: none;
+  border-radius: 6px;
+}
