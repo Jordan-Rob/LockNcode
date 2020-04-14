@@ -123,3 +123,43 @@ form input {
   background-color: #cc3300;
   margin-top: 35px;
 }
+
+/* ============= mobile-section ============ */
+
+#banner-mobile {
+  height: 70vh;
+}
+
+#banner-mobile h3 {
+  margin-top: 50px;
+}
+
+#banner-mobile p {
+  margin-top: 50px;
+  line-height: 30px;
+}
+
+#banner-mobile button {
+  border-radius: 10px;
+  border: none;
+  width: 130px;
+  height: 60px;
+  background-color: #cc3300;
+  margin-left: 32%;
+}
+
+#card-mobile {
+  height: 300vh;
+  margin-top: 50px;
+}
+
+#card-mobile .card {
+  width: 21rem;
+  height: 85vh;
+}
+
+#card-mobile img {
+  height: 90px;
+  width: 100px;
+  margin: auto;
+}
