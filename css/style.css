@@ -72,6 +72,26 @@
   border-radius: 6px;
 }
 
+#info-section {
+  height: 140vh;
+  margin-bottom: 100px;
+  background-color: #e7e7e7;
+}
+
+#info-section .card {
+  height: 55vh;
+  margin-top: 30px;
+}
+
+#info button {
+  background-color: #cc3300;
+  color: white;
+  height: 40px;
+  width: 140px;
+  border: none;
+  border-radius: 6px;
+}
+
 #reach-out {
   height: 100vh;
 }
